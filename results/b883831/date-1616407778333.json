@@ -1,0 +1,50 @@
+{
+  "url": "https://nextjs.org/",
+  "requestedUrl": "https://nextjs.org/",
+  "timestamp": 1616407927437,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 7,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.93,
+    "accessibility": 0.97,
+    "bestPractices": 0.94,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 1827.952,
+  "speedIndex": 1827.952,
+  "largestContentfulPaint": 2358.4015,
+  "totalBlockingTime": 315.10749999999996,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4143.299499999999,
+  "maxPotentialFirstInputDelay": 306,
+  "timeToFirstByte": 10.686,
+  "weight": {
+    "summary": "79 requests • 536 KiB",
+    "total": 548856,
+    "image": 0,
+    "imageCount": 0,
+    "script": 222352,
+    "scriptCount": 37,
+    "document": 45368,
+    "font": 37051,
+    "fontCount": 1,
+    "stylesheet": 3313,
+    "stylesheetCount": 2,
+    "thirdParty": 95671,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 852,
+    "violations": 41
+  }
+}
